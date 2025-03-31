@@ -1,18 +1,27 @@
+👋 Olá, eu sou Adrian-Augusto!
 
- - 👋 Olá, eu sou Adrian-Augusto!
-
-Sobre mim
+🚀 Sobre mim
 
 Atualmente no 2º semestre do curso, sou apaixonado por tecnologia e desenvolvimento de software. Meu foco é backend com Java e Spring Boot, além de explorar SaaS e jogos.
 
-Tecnologias
+🛠️ Tecnologias
 
-Linguagens: Java, HTML, CSS, Javascript
+🔹 Linguagens:
 
-Frameworks:  Spring Boot
+Java
 
-Outros: Git, MySQL, Desenvolvimento Web, Canvas
+HTML
 
+CSS
 
+JavaScript
 
-Fique à vontade para explorar e contribuir!
+🔹 Frameworks:
+
+Spring Boot
+
+🔹 Outros:
+
+Git
+
+MySQL
