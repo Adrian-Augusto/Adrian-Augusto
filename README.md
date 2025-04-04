@@ -4,24 +4,13 @@
 
 Atualmente no 2º semestre do curso, sou apaixonado por tecnologia e desenvolvimento de software. Meu foco é backend com Java e Spring Boot
 
+
 🛠️ Tecnologias
-
 🔹 Linguagens:
-
-Java
-
+Java/Spring Boot
+TypeScript
 HTML
-
 CSS
-
-JavaScript BASIC
-
-🔹 Frameworks:
-
-Spring Boot
-
-🔹 Outros:
-
 Git
-
 MySQL
+
