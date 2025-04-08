@@ -1,10 +1,13 @@
-👋 Olá, eu sou Adrian! 
-🚀 Sobre mim
-Sou apaixonado por tecnologia e desenvolvimento de software. Meu foco é backend com Java e Spring Boot
+## Olá! Meu nome é Adrian Augusto
 
-🛠️ Tecnologias
-🔹 Linguagens:
-Java/Spring Boot
-TypeScript/CSS
-Git/MySQL
+- 🎓 Cursando Analise e Desenvolvimento de Sistemas pela UniCarioca.
+- 📚 Estudando NodeJs,Java, Spring, MYSQL, Docker, Git, AWS.
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,angular,mysql,postgresql,docker,aws)](https://skillicons.dev)
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-camargo-pinheiro-9600762a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href ="mailto:adriansilva7272@gmail.com><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
