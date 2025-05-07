@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Adrian Augusto
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas pela Unopar.
-- 📚 Estudando Java, Spring, MYSQL, Docker, Git, AWS.
+- 📚 Estudando Java, Spring, MYSQL, Docker, Git, 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,mysql,postgresql,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,mysql,postgresql,docker)](https://skillicons.dev)
 
 ##
 
